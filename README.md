@@ -14,4 +14,10 @@ completed Lesson 1: Welcome to Macine Learning.
 
 Really excited and motivated to learn something extraordinarily with a discipline.
 
+## Day 1: 16 AUg, 2018
+
+completed half of Lesson 2
+
+Taking time for completing but instructors' explanation is really marvellous. They are involving real life examples and data to explain the things. Excited to continue this course.
+
 
