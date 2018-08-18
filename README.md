@@ -25,3 +25,10 @@ Completed Lesson2: Naive Bayes Algorithm.
 Doing a mini project which is given at the end of the Lesson: To find the author from their email writings. I need to implement Naive Bayes Algorithm to do this mini project in python.
 
 Going well till now. The way the course set is wonderful. Every piece by piece of the concept is clearly explained by the instructors. Involving me in the quizzes made me understand very quickly and easily.
+
+## Day 3: 18 Aug, 2018
+Working on the mini project.
+
+Setting up the required environment for the project. Downloading the data sets and project material needed for the project and for the course future activities.
+
+Almost learnt nothing new today. Felt disappointing.
