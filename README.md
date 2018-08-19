@@ -32,3 +32,8 @@ Working on the mini project.
 Setting up the required environment for the project. Downloading the data sets and project material needed for the project and for the course future activities.
 
 Almost learnt nothing new today. Felt disappointing.
+
+## Day 4: 19 Aug, 2018
+Still working on the project.
+
+Hard to solve but will be done for sure.
