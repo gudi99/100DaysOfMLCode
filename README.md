@@ -37,3 +37,8 @@ Almost learnt nothing new today. Felt disappointing.
 Still working on the project.
 
 Hard to solve but will be done for sure.
+
+## Day 5: 20 Aug, 2018
+Completed the project.
+
+That was a very easy one. I wasn't got it yesterday. Anyhow delighted now for completing it. Going on to next Lesson SVM algorithm.
