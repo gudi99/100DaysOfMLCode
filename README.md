@@ -42,3 +42,8 @@ Hard to solve but will be done for sure.
 Completed the project.
 
 That was a very easy one. I wasn't got it yesterday. Anyhow delighted now for completing it. Going on to next Lesson SVM algorithm.
+
+## Day 6: 21 Aug, 2018
+Completed half of the Lesson SVMs: Support Vector Machines.
+
+This is a gret algorithm which also solves the non-linear problems unlike naive_bayes. At the middle of lesson, Excited to move forward to know more about it and implement it.
