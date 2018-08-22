@@ -47,3 +47,8 @@ That was a very easy one. I wasn't got it yesterday. Anyhow delighted now for co
 Completed half of the Lesson SVMs: Support Vector Machines.
 
 This is a gret algorithm which also solves the non-linear problems unlike naive_bayes. At the middle of lesson, Excited to move forward to know more about it and implement it.
+
+## Day 7: 22 Aug, 2018
+Got a mini project today. Project problem is same as the last one done with naive_bayes. Now I have to use SVC of SVM to solve the problem.
+
+It's really taking a lot of time to train the data in my machine. It is reflecting in my learning pace. I couldn't move forward if it troubles me like this.
