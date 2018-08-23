@@ -52,3 +52,10 @@ This is a gret algorithm which also solves the non-linear problems unlike naive_
 Got a mini project today. Project problem is same as the last one done with naive_bayes. Now I have to use SVC of SVM to solve the problem.
 
 It's really taking a lot of time to train the data in my machine. It is reflecting in my learning pace. I couldn't move forward if it troubles me like this.
+
+## Day 8: 23 Aug, 2018
+Statrted a new video series by Daniel Shiffman from coding train, youtube.
+
+Although it is based on javascript, but it is completely focusing on Machine Learning. Completed its first session 1: Algorithms and graphs earlier. Today headed over to session 2: Genetic Algorithms. 
+
+To complete mini project, It is taking a lot of time to train and test the data. If I code wrong, modify it and try test run again, it takes a lot of time in my machine. So, I started a new series.
