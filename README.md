@@ -59,3 +59,8 @@ Statrted a new video series by Daniel Shiffman from coding train, youtube.
 Although it is based on javascript, but it is completely focusing on Machine Learning. Completed its first session 1: Algorithms and graphs earlier. Today headed over to session 2: Genetic Algorithms. 
 
 To complete mini project, It is taking a lot of time to train and test the data. If I code wrong, modify it and try test run again, it takes a lot of time in my machine. So, I started a new series.
+
+## Day 9: 24 Aug, 2018
+ Completed two videos in the series and worked on them.
+ 
+These videos focused on Evolutionary Computing, and more specifically, Genetic Algorithms. In this tutorial, I got introduced to the concept of a genetic algorithm, how it can be used to approach "search" problems and how it relates to brute force algorithms.
