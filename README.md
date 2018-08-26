@@ -65,7 +65,12 @@ To complete mini project, It is taking a lot of time to train and test the data.
  
 These videos focused on Evolutionary Computing, and more specifically, Genetic Algorithms. In this tutorial, I got introduced to the concept of a genetic algorithm, how it can be used to approach "search" problems and how it relates to brute force algorithms.
 
-## Day 10: 25Aug, 2018
+## Day 10: 25 Aug, 2018
 Almost completed the second mini project.
 
 A small problem in last task in the project which needed to be figured out. The ice is slowly breaking now. Everything started feeling familiar and feel like becoming a part of ML slowly.
+
+## Day 11: 26 Aug, 2018
+Completed the 2nd mini project successfully.
+
+Solving problems, cracking them, understanding them and implementing them making things more clear. Anyway do and learn is really appreciable approach which is helping me understand the ML quickly and betterly.
