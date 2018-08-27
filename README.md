@@ -74,3 +74,8 @@ A small problem in last task in the project which needed to be figured out. The 
 Completed the 2nd mini project successfully.
 
 Solving problems, cracking them, understanding them and implementing them making things more clear. Anyway do and learn is really appreciable approach which is helping me understand the ML quickly and betterly.
+
+## Day 12: 27 Aug, 2018
+Learnt about Activation functions and Backpropagation algorithm.
+
+Learnt and practised these concepts which have been taught in the class today. Understanding them to the clearer picture what they really do and what is their importance in Machine Learning.
