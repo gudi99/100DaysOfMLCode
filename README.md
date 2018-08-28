@@ -79,3 +79,8 @@ Solving problems, cracking them, understanding them and implementing them making
 Learnt about Activation functions and Backpropagation algorithm.
 
 Learnt and practised these concepts which have been taught in the class today. Understanding them to the clearer picture what they really do and what is their importance in Machine Learning.
+ 
+## Day 13: 28 Aug, 2018
+Completed half of the next Lesson: Decision Trees.
+
+Going great. New algorithm Decision Trees making more sense and looks brilliant. Need to learn more.
