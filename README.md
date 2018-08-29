@@ -84,3 +84,8 @@ Learnt and practised these concepts which have been taught in the class today. U
 Completed half of the next Lesson: Decision Trees.
 
 Going great. New algorithm Decision Trees making more sense and looks brilliant. Need to learn more.
+
+## Day 14: 29 Aug, 2018
+Revised the topics learnt till today.
+
+OfCourse there is a lot more to learn but without remembering the learnt things will be just wasted. So, today's one hour is dedicated to revision and analysis of things learnt till today.
