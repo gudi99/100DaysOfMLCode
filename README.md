@@ -89,3 +89,15 @@ Going great. New algorithm Decision Trees making more sense and looks brilliant.
 Revised the topics learnt till today.
 
 OfCourse there is a lot more to learn but without remembering the learnt things will be just wasted. So, today's one hour is dedicated to revision and analysis of things learnt till today.
+
+## Day 15: 30 Aug, 2018
+Due to network problem, this commit has done with the next day's commit.
+
+Practiced Neural Networks, Perceptron in program in python.
+
+## Day 16: 31 Aug, 2018
+Watched Genetic Algorithm video from the Youtube series.
+
+Learnt and practiced the genetic algorithm: generating a desired string using genetic algorithm which uses 3 features - Heredity, Variation and Mutation.
+
+This algorithm astonished me which Darwin found how species evaluate using those 3 features.
