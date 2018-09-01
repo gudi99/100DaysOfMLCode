@@ -101,3 +101,8 @@ Watched Genetic Algorithm video from the Youtube series.
 Learnt and practiced the genetic algorithm: generating a desired string using genetic algorithm which uses 3 features - Heredity, Variation and Mutation.
 
 This algorithm astonished me which Darwin found how species evaluate using those 3 features.
+
+## Day 17: 1 Sep, 2018
+Spent learning more about Genetic Algorithm: Shakespear Monkey problem, fitness function, improving fitness function, pool selection algorithm based on weights.
+
+Coding something knowingly gives us more boosting as things are done by your awareness. This is situation I am in.
