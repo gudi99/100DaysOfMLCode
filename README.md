@@ -106,3 +106,10 @@ This algorithm astonished me which Darwin found how species evaluate using those
 Spent learning more about Genetic Algorithm: Shakespear Monkey problem, fitness function, improving fitness function, pool selection algorithm based on weights.
 
 Coding something knowingly gives us more boosting as things are done by your awareness. This is situation I am in.
+
+## Day 18: 2 Sep, 2018
+Learnt Another algorithm for Pool selection, and interactive selection.
+
+Literally you need a final output which is known, and you want it to built from scratch with some sort of algorithms or coding or something. Then this Genetic algorithm is very useful in that case.
+
+Through interactive selection, we can design an output with the user's interaction or user's data. We can say, we can get the users feedback every time and improve our product every time. Finally we get a user's most desired output.
