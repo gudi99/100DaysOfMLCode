@@ -113,3 +113,8 @@ Learnt Another algorithm for Pool selection, and interactive selection.
 Literally you need a final output which is known, and you want it to built from scratch with some sort of algorithms or coding or something. Then this Genetic algorithm is very useful in that case.
 
 Through interactive selection, we can design an output with the user's interaction or user's data. We can say, we can get the users feedback every time and improve our product every time. Finally we get a user's most desired output.
+
+## Day 19: 3 Sep, 2018
+Practiced Genetic Algorithm. Spent time to understand it properly and deeply.
+
+Digging deep into Genetic algorithm is really widening my understanding. The more detailed understanding helps us in using it where it can be. Genetic algorithm came from the Darwinian theory that is from nature. So observing nature really solves our many problems. When somebody don't get solution they may find it in nature.
