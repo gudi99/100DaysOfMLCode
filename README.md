@@ -118,3 +118,6 @@ Through interactive selection, we can design an output with the user's interacti
 Practiced Genetic Algorithm. Spent time to understand it properly and deeply.
 
 Digging deep into Genetic algorithm is really widening my understanding. The more detailed understanding helps us in using it where it can be. Genetic algorithm came from the Darwinian theory that is from nature. So observing nature really solves our many problems. When somebody don't get solution they may find it in nature.
+
+## Day 20: 4 Sep, 2018
+Revised and practiced Neural Networks, Perceptron, Mcculloh-Pitts neuron, backpropagation algorithm, all with different activation functions by theoritically and implementing in python.
