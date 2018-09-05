@@ -121,3 +121,8 @@ Digging deep into Genetic algorithm is really widening my understanding. The mor
 
 ## Day 20: 4 Sep, 2018
 Revised and practiced Neural Networks, Perceptron, Mcculloh-Pitts neuron, backpropagation algorithm, all with different activation functions by theoritically and implementing in python.
+
+## Day 21: 5 Sep, 2018
+Watched half of smart rockets project series by Daniel Shiffman in youtube.
+
+This project is about an evolutionary steering behaviors coding challenge. The goal is to create a system where autonomous steering agents evolve the behavior of eating food (green dots) and avoiding poison (red dots).
