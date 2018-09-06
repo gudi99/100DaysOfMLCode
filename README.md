@@ -126,3 +126,10 @@ Revised and practiced Neural Networks, Perceptron, Mcculloh-Pitts neuron, backpr
 Watched half of smart rockets project series by Daniel Shiffman in youtube.
 
 This project is about an evolutionary steering behaviors coding challenge. The goal is to create a system where autonomous steering agents evolve the behavior of eating food (green dots) and avoiding poison (red dots).
+
+## Day 22: 6 Sep, 2018
+Tried to implement the same project which I watched yesterday but I supposed to know about steering behaviors to code this before. Because the rockets which finds food needs to change their path to food from their current going path.
+
+I could not go completely in learning steering behaviors (it may make my path off the track) but tried to learn how the code work so that I could able to implement it.
+
+Today spent checking the code, understanding it well.
