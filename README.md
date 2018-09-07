@@ -133,3 +133,9 @@ Tried to implement the same project which I watched yesterday but I supposed to 
 I could not go completely in learning steering behaviors (it may make my path off the track) but tried to learn how the code work so that I could able to implement it.
 
 Today spent checking the code, understanding it well.
+
+## Day 23: 7 Sep, 2018
+Completed all the series of the project. I am skipping implementation it beacause I am having Supervised and Unsupervised learning going on in my engineering class but I am going with Genetic Algorithms here So I could not fulfill the both.
+
+This is the bad approach I have done. I shouldn't have had started this series but still I got good understanding of Genetic Algorithms.
+Now, I am moving towards the new Session of Coding Train's Intelligence and Learning and need to complete Udacity's course I stopped it at Decision tree. I need to revert back to them.
