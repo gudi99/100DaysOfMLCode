@@ -139,3 +139,14 @@ Completed all the series of the project. I am skipping implementation it beacaus
 
 This is the bad approach I have done. I shouldn't have had started this series but still I got good understanding of Genetic Algorithms.
 Now, I am moving towards the new Session of Coding Train's Intelligence and Learning and need to complete Udacity's course I stopped it at Decision tree. I need to revert back to them.
+
+## Day 24: 8 Sep, 2018
+Completed Decision trees lesson, got an project to do.
+
+Need to do the same project which have done in lesson 1 and 2 but this time, using decision tress.
+
+## Day 25: 9 Sep, 2018
+Completed mini project using decision trees. 
+Started Session 3: Intro to Machine Learning from the course of Intelligence and Learning of Coding Train by Daniel Shiffman.
+
+Shiffman has his own way of explaining things. Honestly, I have got a clear cut overview of Machine Learning today. He has got videos which I haven't touched upon. This would help me in learning Machine Learning in different views.
