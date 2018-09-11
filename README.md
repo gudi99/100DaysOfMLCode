@@ -146,7 +146,17 @@ Completed Decision trees lesson, got an project to do.
 Need to do the same project which have done in lesson 1 and 2 but this time, using decision tress.
 
 ## Day 25: 9 Sep, 2018
-Completed mini project using decision trees. 
+Completed  half of mini project. 
+
+Project is easy but it takes time to complete. Nearly 10 - 15 mins for executing one time on my machine. If any mistake, the position is like, you are going to bear your time everytime. For every change and execute, it takes a lot time.
+
+## Day 26: 10 Sep, 2018
+Completed the whole mini project using decision trees. 
+
+finally, Although it is taking time to complete, I could able to complete the project.
+
+## Day 27: 11 Sep, 2018
 Started Session 3: Intro to Machine Learning from the course of Intelligence and Learning of Coding Train by Daniel Shiffman.
 
 Shiffman has his own way of explaining things. Honestly, I have got a clear cut overview of Machine Learning today. He has got videos which I haven't touched upon. This would help me in learning Machine Learning in different views.
+
