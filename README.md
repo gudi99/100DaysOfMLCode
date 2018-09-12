@@ -160,3 +160,7 @@ Started Session 3: Intro to Machine Learning from the course of Intelligence and
 
 Shiffman has his own way of explaining things. Honestly, I have got a clear cut overview of Machine Learning today. He has got videos which I haven't touched upon. This would help me in learning Machine Learning in different views.
 
+## Day 28: 12 Sep, 2018
+Started New Lesson "Choose Your Own Algorithm" of Udacity course.
+
+This is not a teaching lesson but like a practical session. The purpose of this lesson is that I have to select my own algorithm and learn it and try to apply it to my data sets and get the accuracy. Their intention behind this lesson is that a Machine Learning Practioner should do the things on his own whatever they are trying make me do is the machine learning engineer does throught his ML journey.
