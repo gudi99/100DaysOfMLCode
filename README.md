@@ -166,3 +166,10 @@ Started New Lesson "Choose Your Own Algorithm" of Udacity course.
 This is not a teaching lesson but like a practical session. The purpose of this lesson is that I have to select my own algorithm and learn it and try to apply it to my data sets and get the accuracy. Their intention behind this lesson is that a Machine Learning Practioner should do the things on his own whatever they are trying make me do is the machine learning engineer does throught his ML journey.
 
 #### Due to the exams, this is stopped for a while. It will be continued after the exams.
+
+## Day 29: 26 Sep 2018
+It's almost 14 days taking break to this challenge due to exams and took some extra days for a fresh start for the challenge. Took extra days to complete some other courses and projects. So, I can devote my time daily to this challenge.
+
+Today I picked up from where I left. Udacity's course - choosing my algorithm. I chose the Random Forest algorithm. In this lesson, I have to study the algorithm, learn it and have to apply on the dataset given by them and calculate the accuracy.
+
+I understand the algorithm today in outline and looked into sklearn documentation of random forest classifer, understood some of the parameters and tried to implement them. It is taking a lot of time to run on my machine. I need to check this up tomorrow.
