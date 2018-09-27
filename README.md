@@ -173,3 +173,8 @@ It's almost 14 days taking break to this challenge due to exams and took some ex
 Today I picked up from where I left. Udacity's course - choosing my algorithm. I chose the Random Forest algorithm. In this lesson, I have to study the algorithm, learn it and have to apply on the dataset given by them and calculate the accuracy.
 
 I understand the algorithm today in outline and looked into sklearn documentation of random forest classifer, understood some of the parameters and tried to implement them. It is taking a lot of time to run on my machine. I need to check this up tomorrow.
+
+## Day 30: 27 Sep 2018
+It's about a month of #100DaysOfMLCode challenge. Going fine till day. Learning is something needs to move on and on to sharp yourself. I hope this challenge gives a good starting for my ML journey.
+
+Today, I completed the Lesson8 by learning a new algorithm, implementing it and calculating the accuracy. Then, next task for me was to beat the accuracy score of 93.6% done by the instructors in the videos. I finally beat with the K Nearest Neighbor algorithm. It is really superb in classification. All the other algorithms I tried were taking a lot of time and couldn't able to give good accuracy score but this algorithm run in 0.109 seconds (Really WOW!!!) and achieved 94% in the first try itself and I could able to beat the instructor's accuracy score.
