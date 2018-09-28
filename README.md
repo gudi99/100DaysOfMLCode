@@ -178,3 +178,9 @@ I understand the algorithm today in outline and looked into sklearn documentatio
 It's about a month of #100DaysOfMLCode challenge. Going fine till day. Learning is something needs to move on and on to sharp yourself. I hope this challenge gives a good starting for my ML journey.
 
 Today, I completed the Lesson8 by learning a new algorithm, implementing it and calculating the accuracy. Then, next task for me was to beat the accuracy score of 93.6% done by the instructors in the videos. I finally beat with the K Nearest Neighbor algorithm. It is really superb in classification. All the other algorithms I tried were taking a lot of time and couldn't able to give good accuracy score but this algorithm run in 0.109 seconds (Really WOW!!!) and achieved 94% in the first try itself and I could able to beat the instructor's accuracy score.
+
+## Day 31: 28 Sep 2018
+Today started Lesson 10: Datasets
+It's about enron dataset. enron is a company where it was bankrupted by the some of the employees and others. Instructor is trying to teach how to work on the dataset, how can we understand the dataset with our targeted questions till now.
+
+Machine Learning really makes wonders that is we can literally find answers to many questions using machines easily. We should have deep understanding of algorithms, data we need, how can we train the machine, test it using test cases everything matters. If we could able to understand all these damn sure we can find answer to any question.
